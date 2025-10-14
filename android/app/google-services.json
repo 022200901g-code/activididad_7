@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1084909155275",
+    "project_id": "guia-7-fcd64",
+    "storage_bucket": "guia-7-fcd64.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084909155275:android:e50aaf7269e4ec90ff7c4e",
+        "android_client_info": {
+          "package_name": "com.example.activididad_7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-bUyzbtqxhMQOYhS3qIEeadoFVN-kOEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
